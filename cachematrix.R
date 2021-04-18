@@ -1,4 +1,4 @@
-setwd('C:/Users/ai.raaaa/Documents/Coursera-R')
+setwd('C:/Users/ai.raaa/Documents/Coursera-R')
 ##
 ## The x input set as a matrix 
 ## and then set the solved value as "s" that represent as a null
